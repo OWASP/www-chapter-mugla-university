@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Resul Bozburun](mailto:resul.bozburun@owasp.org)
+* [Enis Karaarslan](mailto:enis.karaarslan@owasp.org)
