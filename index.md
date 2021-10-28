@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP University Chapter for Mugla University
+title: OWASP Mugla University
 tags: example-tag
 region: Asia
 meetup-group:
