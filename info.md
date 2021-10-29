@@ -3,6 +3,6 @@
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-mugla-university-student-chapter/)
 
 
