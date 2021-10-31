@@ -3,7 +3,7 @@ title: Past Events
 layout:  null
 tab: true
 order: 1
-tags: past-events
+tags: owaspmsku
 ---
 
 ## Past Events
