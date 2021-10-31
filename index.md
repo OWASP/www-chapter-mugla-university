@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Mugla University
-tags: example-tag
+tags: owaspmsku
 region: Asia
 meetup-group: owasp-mugla-university-student-chapter
 
