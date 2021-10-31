@@ -13,7 +13,7 @@ Welcome to OWASP Mugla University. We are happy to see you if you participate us
 Muğla Sıtkı Koçman University (MSKU) is one of the most prestigious univerty in Turkey. As OWASP Mugla University, we organise Meetups, conferences, professional speaker series, workshops and inspiring presentations about Cyber Security. 
 
 ## Future Meetings 
-OWASP Mugla University Student Chapter meetings are posted on our meetup!  [Meetup Group](https://www.meetup.com/owasp-mugla-university/)
+OWASP Mugla University Student Chapter meetings are posted on our meetup!  [Meetup Group](https://www.meetup.com/owasp-mugla-university-student-chapter/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
