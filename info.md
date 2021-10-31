@@ -4,5 +4,7 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-mugla-university-student-chapter/)
+* [Twitter](https://twitter.com/OWASPMuglaUni)
+* [Instagram](https://www.instagram.com/owaspmuglauni/)
 
 
