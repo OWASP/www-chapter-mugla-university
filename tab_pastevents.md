@@ -8,4 +8,4 @@ tags: owaspmsku
 
 ## Past Events
 
-You can see our past events.
+- [OWASP Mugla University Tanıtımı & Linux 101](https://www.meetup.com/owasp-mugla-university-student-chapter/events/281867151/)
