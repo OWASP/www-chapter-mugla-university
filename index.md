@@ -36,4 +36,4 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 
 ## Presentations and Professinal Speakings
-If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Resul Bozburun](mailto://resul.bozburun@owasp.org) & [Dr. Enis Karaarslan](mailto://enis.karaarslan@mu.edu.tr)
+If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Resul Bozburun](mailto://resul.bozburun@owasp.org), [Furkan Ozturk](mailto://furkan.ozturk@owasp.org) & [Dr. Enis Karaarslan](mailto://enis.karaarslan@mu.edu.tr)
