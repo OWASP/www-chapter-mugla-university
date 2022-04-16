@@ -8,6 +8,7 @@ tags: owaspmsku
 
 ## Past Events
 
+- [OWASP ile Sahura Doğru Siber Kariyer Sohbetleri: Furkan Öztürk & Yusuf Can Çakır](https://www.meetup.com/owasp-mugla-university-student-chapter/events/285306878/) [16.04.2022]
 - [OWASP ile Sahura Doğru Siber Kariyer Sohbetleri: SOC Analist Batuhan Kağanoğlu](https://www.meetup.com/owasp-mugla-university-student-chapter/events/285149181/) [09.04.2022]
 - [OSINT: Open Source Intelligence Hacker Tarzı Stalk - Sevde Gül Türk & Yakuphan Devrez](https://www.meetup.com/owasp-mugla-university-student-chapter/events/284973283/) [31.03.2022]
 - [Adli Bilişim: Tarayıcılar Üzerinde Adli İnceleme - Furkan Öztürk](https://www.meetup.com/owasp-mugla-university-student-chapter/events/284402900/) [08.03.2022]
