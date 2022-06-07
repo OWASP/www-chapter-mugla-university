@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Mugla University
+title: OWASP Mugla University - Student Chapter
 tags: owaspmsku
 region: Asia
 meetup-group: owasp-mugla-university-student-chapter
