@@ -8,3 +8,4 @@
 * [Linkedin](https://www.linkedin.com/company/owasp-mugla-university/)
 * [Instagram](https://www.instagram.com/owaspmuglauni/)
 * [Discord](https://discord.gg/5bzdE3Pn3v)
+* [Linktr.ee](https://linktr.ee/owaspmuglauni)
