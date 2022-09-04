@@ -8,7 +8,7 @@ meetup-group: owasp-mugla-university-student-chapter
 
 ---
 
-![OWASP Mugla University](assets/images/owasplogowithchapter.png)
+![OWASP Mugla University](assets/images/owasplogo-smallsize.png)
 
 ## Welcome
 Welcome to OWASP Mugla University. We are happy to see you if you participate us!
