@@ -12,7 +12,17 @@ meetup-group: owasp-mugla-university-student-chapter
 
 ## Welcome
 Welcome to OWASP Mugla University. We are happy to see you if you participate us!
-Muğla Sıtkı Koçman University (MSKU) is one of the most prestigious univerty in Turkey. As OWASP Mugla University, we organise Meetups, conferences, professional speaker series, workshops and inspiring presentations about Cyber Security. 
+Muğla Sıtkı Koçman University (MSKU) is one of the most prestigious university in Turkey. As OWASP Mugla University, we organise Meetups, conferences, professional speaker series, workshops and inspiring presentations about Cyber Security. 
+
+## Chapter Information
+
+OWASP Mugla University was established in October 2022 as a Student Chapter. The first meeting was held on 08.11.2021 with the Cyber security fundamentals and introduction of OWASP. Following this meeting, public meetings were held addressing various areas of Cyber Security. As OWASP Mugla University, we continue meetings that focus on content that participants can implement in their own environment, free of charge and open to everyone.
+
+Keep watching this space for announcements about upcoming events. Everyone is welcome to join us at our chapter meetings. For more detailed information about the OWASP Mugla University Student Chapter, contact the chapter leaders: 
+
+* [Furkan Ozturk](mailto:furkan.ozturk@owasp.org)
+* [Resul Bozburun](mailto:resul.bozburun@owasp.org)
+* [Dr. Enis Karaaslan](mailto:enis.karaaslan@owasp.org)
 
 ## Future Meetings 
 OWASP Mugla University Student Chapter meetings are posted on our meetup!  [Meetup Group](https://www.meetup.com/owasp-mugla-university-student-chapter/)
@@ -35,6 +45,16 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 + Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/).We especially encourage diversity in all our initiatives. 
 + OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. 
 + We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+
+## Supporters
+
+OWASP finances the projects and its organization through sponsors. A sponsor sustainably supports the work of OWASP.
+You have two options - which you can also use both in parallel - to support OWASP. We would be very happy about that: 
+
+* Become an [OWASP Corporate Supporter](https://owasp.org/supporters/)
+* Support the chapter as an [OWASP Mugla University Student Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-mugla-university&title=OWASP+Mugla+University+-+Student+Chapter)
+
+In particular, please take note of the OWASP Donations Policy.
 
 
 ## Presentations and Professional Speakings
