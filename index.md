@@ -54,7 +54,7 @@ You have two options - which you can also use both in parallel - to support OWAS
 * Become an [OWASP Corporate Supporter](https://owasp.org/supporters/)
 * Support the chapter as an [OWASP Mugla University Student Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-mugla-university&title=OWASP+Mugla+University+-+Student+Chapter)
 
-In particular, please take note of the OWASP Donations Policy.
+In particular, please take note of the [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations).
 
 
 ## Presentations and Professional Speakings
