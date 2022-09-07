@@ -16,7 +16,7 @@ Muğla Sıtkı Koçman University (MSKU) is one of the most prestigious universi
 
 ## Chapter Information
 
-OWASP Mugla University was established in October 2022 as a Student Chapter. The first meeting was held on 08.11.2021 with the Cyber security fundamentals and introduction of OWASP. Following this meeting, public meetings were held addressing various areas of Cyber Security. As OWASP Mugla University, we continue meetings that focus on content that participants can implement in their own environment, free of charge and open to everyone.
+OWASP Mugla University was established in October 2021 as a Student Chapter. The first meeting was held on 08.11.2021 with the Cyber security fundamentals and introduction of OWASP. Following this meeting, public meetings were held addressing various areas of Cyber Security. As OWASP Mugla University, we continue meetings that focus on content that participants can implement in their own environment, free of charge and open to everyone.
 
 Keep watching this space for announcements about upcoming events. Everyone is welcome to join us at our chapter meetings. For more detailed information about the OWASP Mugla University Student Chapter, contact the chapter leaders: 
 
