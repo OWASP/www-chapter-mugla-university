@@ -10,6 +10,7 @@ tags: owaspmsku
 
 Recent public meetings of OWASP Mugla University
 
+- [Linux Fundamentals - Yusuf Yıldız & Sevde Gül Türk](https://www.meetup.com/owasp-mugla-university-student-chapter/events/289156005/) [17.10.2022]
 - [OWASP Tanıtımı & Deep/Dark Web Dünyası - Furkan Öztürk & Resul Bozburun](https://www.meetup.com/owasp-mugla-university-student-chapter/events/288861783/) [03.10.2022]
 - [Siber Güvenlik 101 - Resul Bozburun](https://www.meetup.com/owasp-mugla-university-student-chapter/events/285838796/) [12.05.2022]
 - [OWASP ile Sahura Doğru Siber Kariyer Sohbetleri: Furkan Öztürk & Yusuf Can Çakır](https://www.meetup.com/owasp-mugla-university-student-chapter/events/285306878/) [16.04.2022]
