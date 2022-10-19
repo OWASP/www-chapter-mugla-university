@@ -11,7 +11,7 @@ tags: owaspmsku
 ### Leaders
 - [Furkan Öztürk](https://www.linkedin.com/in/furkannozturk/)
 - [Resul Bozburun](https://www.linkedin.com/in/rbozburun/)
-- Enis Karaaslan
+- [Enis Karaaslan]()
 
 ### Core Team Members
 - [Yakuphan Devrez](https://www.linkedin.com/in/yakuphandevrez/)
