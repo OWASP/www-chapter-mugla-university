@@ -7,3 +7,5 @@ tags: owaspmsku
 ---
 
 ## Next Events
+
+OWASP Mugla University's next public meetings
