@@ -1,5 +1,5 @@
 ---
-title: Team
+title: team
 layout:  null
 tab: true
 order: 3
