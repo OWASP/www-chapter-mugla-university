@@ -1,5 +1,5 @@
 ---
-title: Next Events
+title: NextEvents
 layout:  null
 tab: true
 order: 2
