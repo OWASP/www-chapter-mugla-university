@@ -32,6 +32,6 @@ tags: owaspmsku
 - [Mert Çelik](https://www.linkedin.com/in/mertceliik)
 - [Büşra Uğur](https://www.linkedin.com/in/Busraugur42)
 - [Burçin Özkan](https://www.linkedin.com/in/burcinozkan)
-- [Elif Düzcan](https://www.linkedin.com/in/elif-duzcan-41404324b/)
+- [Elif Duzcan](https://www.linkedin.com/in/elif-duzcan-41404324b/)
 - [Burhan Karatoprak](https://www.linkedin.com/in/burhan-karatoprak-723865251/)
 - [Faruk Yıldırım]()
