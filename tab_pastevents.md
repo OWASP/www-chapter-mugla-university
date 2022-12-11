@@ -13,6 +13,7 @@ Recent public meetings of OWASP Mugla University
 
 Event Date | Event Mode | Topic | Speaker(s)
 --- | --- | --- | ---
+28.11.2022 | Offline | [CTF 101](https://www.meetup.com/owasp-mugla-university-student-chapter/events/290016263/) | Abdullah Can Öz
 17.10.2022 | Offline | [Linux Fundamentals](https://www.meetup.com/owasp-mugla-university-student-chapter/events/289156005/) | Yusuf Yıldız & Sevde Gül Türk
 03.10.2022 | Offline | [OWASP Tanıtımı & Deep/Dark Web Dünyası](https://www.meetup.com/owasp-mugla-university-student-chapter/events/288861783/) | Furkan Öztürk & Resul Bozburun
 12.05.2022 | Offline | [Siber Güvenlik 101](https://www.meetup.com/owasp-mugla-university-student-chapter/events/285838796/) | Resul Bozburun
@@ -23,4 +24,4 @@ Event Date | Event Mode | Topic | Speaker(s)
 08.12.2021 | Offline | [Github 101](https://www.meetup.com/tr-TR/owasp-mugla-university-student-chapter/events/282528273/) | Halil İbrahim Ceylan
 29.11.2021 | Offline | [Siber Güvenlik Sektöründe Kariyer Yapmak](https://www.meetup.com/owasp-mugla-university-student-chapter/events/282325474/) | Rümeysa Bozdemir
 08.11.2021 | Offline | [OWASP Mugla University Tanıtımı & Linux 101](https://www.meetup.com/owasp-mugla-university-student-chapter/events/281867151/) | Resul Bozburun
-28.11.2022 | Offline | [CTF 101](https://www.meetup.com/owasp-mugla-university-student-chapter/events/290016263/) | Abdullah Can Öz
+
