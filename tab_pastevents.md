@@ -13,6 +13,7 @@ Recent public meetings of OWASP Mugla University
 
 Event Date | Event Mode | Topic | Speaker(s)
 --- | --- | --- | ---
+28.03.2023 | Offline | [Web Uygulama Zafiyetleri: Cross Site Scripting (XSS) Injection](https://www.meetup.com/owasp-mugla-university-student-chapter/events/292511963/) | Resul Bozburun
 28.11.2022 | Offline | [CTF 101](https://www.meetup.com/owasp-mugla-university-student-chapter/events/290016263/) | Abdullah Can Öz
 17.10.2022 | Offline | [Linux Fundamentals](https://www.meetup.com/owasp-mugla-university-student-chapter/events/289156005/) | Yusuf Yıldız & Sevde Gül Türk
 03.10.2022 | Offline | [OWASP Tanıtımı & Deep/Dark Web Dünyası](https://www.meetup.com/owasp-mugla-university-student-chapter/events/288861783/) | Furkan Öztürk & Resul Bozburun
