@@ -10,6 +10,4 @@ tags: owaspmsku
 
 OWASP Mugla University's next public meetings
 
-Event Date | Event Mode | Topic | Speaker(s)
---- | --- | --- | ---
-01.04.2023 | Online | [Bug Bounty (Ödül Avcılığı)](https://www.meetup.com/owasp-mugla-university-student-chapter/events/292626570/) | Muhammed Eren Uygun
+
