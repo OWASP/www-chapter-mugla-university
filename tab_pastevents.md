@@ -13,6 +13,7 @@ Recent public meetings of OWASP Mugla University
 
 Event Date | Event Mode | Topic | Speaker(s)
 --- | --- | --- | ---
+16.05.2023 | Online | [Güvenli Yazılım Geliştirme](https://www.meetup.com/owasp-mugla-university-student-chapter/events/293571687/) | [Anıl Yelken](https://www.linkedin.com/in/ayelk/)
 06.04.2023 | Online | [Zararlı Yazılımlar: Bilgisayarındaki Davetsiz Misafir](https://www.meetup.com/owasp-mugla-university-student-chapter/events/292699002/) | [Seyit Sığırcı](https://www.linkedin.com/in/mseyitsigirci/)
 01.04.2023 | Online | [Bug Bounty (Ödül Avcılığı)](https://www.meetup.com/owasp-mugla-university-student-chapter/events/292626570/) | [Muhammed Eren Uygun](https://www.linkedin.com/in/erennuygun/)
 28.03.2023 | Online | [Web Uygulama Zafiyetleri: Cross Site Scripting (XSS) Injection](https://www.meetup.com/owasp-mugla-university-student-chapter/events/292511963/) | [Resul Bozburun](https://www.linkedin.com/in/rbozburun/)
