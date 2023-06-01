@@ -13,7 +13,7 @@ Recent public meetings of OWASP Mugla University
 
 Event Date | Event Mode | Topic | Speaker(s)
 --- | --- | --- | ---
-29.05.2023 | Online | [Siber Güvenlik Yol haritası](https://www.meetup.com/owasp-mugla-university-student-chapter/events/293904106) | [Battal Koç](https://www.linkedin.com/in/battalkoc/)
+29.05.2023 | Online | [Siber Güvenlik Yol Haritası](https://www.meetup.com/owasp-mugla-university-student-chapter/events/293904106) | [Battal Koç](https://www.linkedin.com/in/battalkoc/)
 24.05.2023 | Online | [Saldırganların Gözünden Dijital Dünya](https://www.meetup.com/owasp-mugla-university-student-chapter/events/293755496/) | [Okan Kurtuluş](https://www.linkedin.com/in/okankurtuluss/)
 23.05.2023 | Online | [Yapay Zekanın Siber Güvenliğe Uygulanması](https://www.meetup.com/owasp-mugla-university-student-chapter/events/293669992/) | [Cihan Özhan](https://www.linkedin.com/in/cihanozhan/)
 16.05.2023 | Online | [Güvenli Yazılım Geliştirme](https://www.meetup.com/owasp-mugla-university-student-chapter/events/293571687/) | [Anıl Yelken](https://www.linkedin.com/in/ayelk/)
