@@ -11,7 +11,7 @@ tags: owaspmsku
 ### Leaders
 - [Furkan Öztürk](https://www.linkedin.com/in/furkannozturk/)
 - [Resul Bozburun](https://www.linkedin.com/in/rbozburun/)
-- [Enis Karaaslan]()
+- [Enis Karaaslan](https://www.linkedin.com/in/enis-karaarslan-1b195617/)
 
 ### Core Team Members
 - [Yakuphan Devrez](https://www.linkedin.com/in/yakuphandevrez/)
@@ -27,6 +27,14 @@ tags: owaspmsku
 
 ### 2022-2023 Team Members
 
+- [Furkan Öztürk](https://www.linkedin.com/in/furkannozturk/)
+- [Resul Bozburun](https://www.linkedin.com/in/rbozburun/)
+- [Enis Karaaslan](https://www.linkedin.com/in/enis-karaarslan-1b195617/)
+- [Yakuphan Devrez](https://www.linkedin.com/in/yakuphandevrez/)
+- [Zehra Öztürk](https://www.linkedin.com/in/fatmatuzzehraozturk/)
+- [Sevde Gül Türk](https://www.linkedin.com/in/sevde-gul-turk/)
+- [Muhammed Görkem Kılıç](https://www.linkedin.com/in/muhammedg%C3%B6rkemk%C4%B1l%C4%B1%C3%A7/)
+- [Yusuf Yıldız](https://www.linkedin.com/in/yusuf-y%C4%B1ld%C4%B1z-64a1931a2/)
 - [Samet Taş](https://www.linkedin.com/in/samet-ta%C5%9F-691381223/)
 - [Işıl Çolak](https://www.linkedin.com/in/i%C5%9F%C4%B1l-%C3%A7olak-ab5619233/)
 - [Erdi Erdebil](https://www.linkedin.com/in/erdi-e-138671218/)
