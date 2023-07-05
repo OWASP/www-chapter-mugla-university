@@ -21,6 +21,12 @@ tags: owaspmsku
 - [Yusuf Yıldız](https://www.linkedin.com/in/yusuf-y%C4%B1ld%C4%B1z-64a1931a2/)
 
 ### Team Members
+
+
+## OWASP Mugla University Past Team Members
+
+### 2022-2023 Team Members
+
 - [Samet Taş](https://www.linkedin.com/in/samet-ta%C5%9F-691381223/)
 - [Işıl Çolak](https://www.linkedin.com/in/i%C5%9F%C4%B1l-%C3%A7olak-ab5619233/)
 - [Erdi Erdebil](https://www.linkedin.com/in/erdi-e-138671218/)
