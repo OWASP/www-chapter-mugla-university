@@ -20,6 +20,7 @@ OWASP Mugla University was established in October 2021 as a Student Chapter. The
 
 Keep watching this space for announcements about upcoming events. Everyone is welcome to join us at our chapter meetings. For more detailed information about the OWASP Mugla University Student Chapter, contact the chapter leaders: 
 
+* [Sevde Gul Turk](mailto:sevde.gulturk@owasp.org)
 * [Furkan Ozturk](mailto:furkan.ozturk@owasp.org)
 * [Resul Bozburun](mailto:resul.bozburun@owasp.org)
 * [Dr. Enis Karaaslan](mailto:enis.karaaslan@owasp.org)
@@ -58,4 +59,4 @@ In particular, please take note of the [OWASP Donations Policy](https://owasp.or
 
 
 ## Presentations and Professional Speakings
-If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Resul Bozburun](mailto://resul.bozburun@owasp.org), [Furkan Ozturk](mailto://furkan.ozturk@owasp.org) & [Dr. Enis Karaarslan](mailto://enis.karaarslan@mu.edu.tr)
+If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Sevde Gul Turk](mailto:sevde.gulturk@owasp.org), [Resul Bozburun](mailto://resul.bozburun@owasp.org), [Furkan Ozturk](mailto://furkan.ozturk@owasp.org) & [Dr. Enis Karaarslan](mailto://enis.karaarslan@mu.edu.tr)
