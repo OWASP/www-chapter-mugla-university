@@ -9,14 +9,14 @@ tags: owaspmsku
 ## OWASP Mugla University Team 
 
 ### Leaders
+- [Sevde Gül Türk](https://www.linkedin.com/in/sevde-gul-turk/)
 - [Furkan Öztürk](https://www.linkedin.com/in/furkannozturk/)
 - [Resul Bozburun](https://www.linkedin.com/in/rbozburun/)
-- [Enis Karaaslan](https://www.linkedin.com/in/enis-karaarslan-1b195617/)
+- [Dr. Enis Karaaslan](https://www.linkedin.com/in/enis-karaarslan-1b195617/)
 
 ### Core Team Members
 - [Yakuphan Devrez](https://www.linkedin.com/in/yakuphandevrez/)
-- [Zehra Öztürk](https://www.linkedin.com/in/fatmatuzzehraozturk/)
-- [Sevde Gül Türk](https://www.linkedin.com/in/sevde-gul-turk/)
+- [Can Öz](https://www.linkedin.com/in/canozsec/)
 - [Muhammed Görkem Kılıç](https://www.linkedin.com/in/muhammedg%C3%B6rkemk%C4%B1l%C4%B1%C3%A7/)
 - [Yusuf Yıldız](https://www.linkedin.com/in/yusuf-y%C4%B1ld%C4%B1z-64a1931a2/)
 
