@@ -21,7 +21,19 @@ tags: owaspmsku
 - [Yusuf Yıldız](https://www.linkedin.com/in/yusuf-y%C4%B1ld%C4%B1z-64a1931a2/)
 
 ### Team Members
- -
+- [Samet Taş](https://www.linkedin.com/in/samet-ta%C5%9F-691381223/)
+- [Arda Karahan](https://www.linkedin.com/in/arda-karahan-2a3aa529a/)
+- [Berna Elmas](https://www.linkedin.com/in/bernaelmas/)
+- [Emir Kızılçim](https://www.linkedin.com/in/emir-k%C4%B1z%C4%B1l%C3%A7im-6a24b01b3/)
+- [Hatice Kübra Selvi](https://www.linkedin.com/in/hatice-k%C3%BCbra-selvi-0bb814297/)
+- [Murat Yavuz](https://www.linkedin.com/in/murat-yavuz-664bbb259/)
+- [Sevde Nur Susancak](https://www.linkedin.com/in/sevdenursusancak/)
+- [Ümmü Gülsüm Varlı](https://www.linkedin.com/in/%C3%BCmm%C3%BC-g%C3%BCls%C3%BCm-varl%C4%B1-79a945210)
+- [Mehmet Yusuf Alakuşu](https://www.linkedin.com/in/alakusu/)
+- [Hüseyin Beşirik](https://www.linkedin.com/in/h%C3%BCseyin-be%C5%9Firik-b50732298/)
+- [Ömer Faruk Kaba](https://www.linkedin.com/in/%C3%B6mer-faruk-kaba-931b70252/)
+- [Sevgi Deniz](https://www.linkedin.com/in/sevgi-deniz-b58b1629a/)
+- [Devran Doğan](https://www.linkedin.com/in/devran-dogan-7b5653264/)
 
 ## OWASP Mugla University Past Team Members
 
