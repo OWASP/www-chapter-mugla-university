@@ -34,6 +34,7 @@ tags: owaspmsku
 - [Ömer Faruk Kaba](https://www.linkedin.com/in/%C3%B6mer-faruk-kaba-931b70252/)
 - [Sevgi Deniz](https://www.linkedin.com/in/sevgi-deniz-b58b1629a/)
 - [Devran Doğan](https://www.linkedin.com/in/devran-dogan-7b5653264/)
+- [Aynur Oruçoğlu](https://www.linkedin.com/in/aynur-oru%C3%A7o%C4%9Flu-3767b2285/)
 
 ## OWASP Mugla University Past Team Members
 
