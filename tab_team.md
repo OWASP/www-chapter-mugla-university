@@ -35,7 +35,7 @@ tags: owaspmsku
 - [Sevgi Deniz](https://www.linkedin.com/in/sevgi-deniz-b58b1629a/)
 - [Devran Doğan](https://www.linkedin.com/in/devran-dogan-7b5653264/)
 - [Aynur Oruçoğlu](https://www.linkedin.com/in/aynur-oru%C3%A7o%C4%9Flu-3767b2285/)
-- Nida Ayyıldız
+- [Nidanur Ayyıldız](https://www.linkedin.com/in/nidanur-ayy%C4%B1ld%C4%B1z-69a33329b/)
 
 ## OWASP Mugla University Past Team Members
 
