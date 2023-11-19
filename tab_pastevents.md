@@ -13,6 +13,7 @@ Recent public meetings of OWASP Mugla University
 
 Event Date | Event Mode | Topic | Speaker(s)
 --- | --- | --- | ---
+15.11.2023 | Offline | [Network101](https://www.meetup.com/owasp-mugla-university-student-chapter/events/297454977/) | [Sevde Gül Türk](https://www.linkedin.com/in/sevde-gul-turk/)
 25.10.2023 | Offline | [Sanalın Yeraltı Dünyası: Deep & Dark Web](https://www.meetup.com/owasp-mugla-university-student-chapter/events/296948662/) | [Furkan Öztürk](https://www.linkedin.com/in/furkannozturk/)
 29.05.2023 | Online | [Siber Güvenlik Yol Haritası](https://www.meetup.com/owasp-mugla-university-student-chapter/events/293904106) | [Battal Koç](https://www.linkedin.com/in/battalkoc/)
 24.05.2023 | Online | [Saldırganların Gözünden Dijital Dünya](https://www.meetup.com/owasp-mugla-university-student-chapter/events/293755496/) | [Okan Kurtuluş](https://www.linkedin.com/in/okankurtuluss/)
