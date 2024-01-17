@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Mugla University - Student Chapter
 tags: owaspmsku
 region: Asia
+country: Turkey
 meetup-group: owasp-mugla-university-student-chapter
 
 ---
