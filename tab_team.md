@@ -30,7 +30,6 @@ tags: owaspmsku
 - [Sevde Nur Susancak](https://www.linkedin.com/in/sevdenursusancak/)
 - [Ümmü Gülsüm Varlı](https://www.linkedin.com/in/%C3%BCmm%C3%BC-g%C3%BCls%C3%BCm-varl%C4%B1-79a945210)
 - [Mehmet Yusuf Alakuşu](https://www.linkedin.com/in/alakusu/)
-- [Hüseyin Beşirik](https://www.linkedin.com/in/h%C3%BCseyin-be%C5%9Firik-b50732298/)
 - [Ömer Faruk Kaba](https://www.linkedin.com/in/%C3%B6mer-faruk-kaba-931b70252/)
 - [Sevgi Deniz](https://www.linkedin.com/in/sevgi-deniz-b58b1629a/)
 - [Devran Doğan](https://www.linkedin.com/in/devran-dogan-7b5653264/)
