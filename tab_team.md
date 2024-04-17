@@ -24,7 +24,6 @@ tags: owaspmsku
 - [Samet Taş](https://www.linkedin.com/in/samet-ta%C5%9F-691381223/)
 - [Arda Karahan](https://www.linkedin.com/in/arda-karahan-2a3aa529a/)
 - [Berna Elmas](https://www.linkedin.com/in/bernaelmas/)
-- [Emir Kızılçim](https://www.linkedin.com/in/emir-k%C4%B1z%C4%B1l%C3%A7im-6a24b01b3/)
 - [Hatice Kübra Selvi](https://www.linkedin.com/in/hatice-k%C3%BCbra-selvi-0bb814297/)
 - [Murat Yavuz](https://www.linkedin.com/in/murat-yavuz-664bbb259/)
 - [Sevde Nur Susancak](https://www.linkedin.com/in/sevdenursusancak/)
