@@ -13,6 +13,7 @@ Recent public meetings of OWASP Mugla University
 
 Event Date | Event Mode | Topic | Speaker(s)
 --- | --- | --- | ---
+24.04.2024 | Offline | [Coffee Talk](https://www.meetup.com/owasp-mugla-university-student-chapter/events/300611684/) | [Hüseyin Selim Sürmelihindi](https://www.linkedin.com/in/selimsur/)
 22.12.2023 | Offline | [Burp Suite](https://www.meetup.com/owasp-mugla-university-student-chapter/events/298086470/) | [Ümmü Gülsüm Varlı](https://www.linkedin.com/in/gulsummvarlii)
 07.12.2023 | Offline | [Click’inize Hakim Olun!](https://www.meetup.com/owasp-mugla-university-student-chapter/events/297790531/) | [Resul Bozburun](https://www.linkedin.com/in/rbozburun/)
 15.11.2023 | Offline | [Network101](https://www.meetup.com/owasp-mugla-university-student-chapter/events/297454977/) | [Sevde Gül Türk](https://www.linkedin.com/in/sevde-gul-turk/)
