@@ -9,31 +9,18 @@ tags: owaspmsku
 ## OWASP Mugla University Team 
 
 ### Leaders
+- [Can Öz](https://www.linkedin.com/in/canozsec/)
 - [Sevde Gül Türk](https://www.linkedin.com/in/sevde-gul-turk/)
 - [Furkan Öztürk](https://www.linkedin.com/in/furkannozturk/)
 - [Resul Bozburun](https://www.linkedin.com/in/rbozburun/)
 - [Dr. Enis Karaaslan](https://www.linkedin.com/in/enis-karaarslan-1b195617/)
 
 ### Core Team Members
-- [Yakuphan Devrez](https://www.linkedin.com/in/yakuphandevrez/)
-- [Can Öz](https://www.linkedin.com/in/canozsec/)
-- [Muhammed Görkem Kılıç](https://www.linkedin.com/in/muhammedg%C3%B6rkemk%C4%B1l%C4%B1%C3%A7/)
 - [Yusuf Yıldız](https://www.linkedin.com/in/yusuf-y%C4%B1ld%C4%B1z-64a1931a2/)
+- - [Ümmü Gülsüm Varlı](https://www.linkedin.com/in/%C3%BCmm%C3%BC-g%C3%BCls%C3%BCm-varl%C4%B1-79a945210)
 
 ### Team Members
-- [Samet Taş](https://www.linkedin.com/in/samet-ta%C5%9F-691381223/)
-- [Arda Karahan](https://www.linkedin.com/in/arda-karahan-2a3aa529a/)
-- [Berna Elmas](https://www.linkedin.com/in/bernaelmas/)
-- [Hatice Kübra Selvi](https://www.linkedin.com/in/hatice-k%C3%BCbra-selvi-0bb814297/)
-- [Murat Yavuz](https://www.linkedin.com/in/murat-yavuz-664bbb259/)
-- [Sevde Nur Susancak](https://www.linkedin.com/in/sevdenursusancak/)
-- [Ümmü Gülsüm Varlı](https://www.linkedin.com/in/%C3%BCmm%C3%BC-g%C3%BCls%C3%BCm-varl%C4%B1-79a945210)
-- [Mehmet Yusuf Alakuşu](https://www.linkedin.com/in/alakusu/)
-- [Ömer Faruk Kaba](https://www.linkedin.com/in/%C3%B6mer-faruk-kaba-931b70252/)
-- [Sevgi Deniz](https://www.linkedin.com/in/sevgi-deniz-b58b1629a/)
-- [Devran Doğan](https://www.linkedin.com/in/devran-dogan-7b5653264/)
-- [Aynur Oruçoğlu](https://www.linkedin.com/in/aynur-oru%C3%A7o%C4%9Flu-3767b2285/)
-- [Nidanur Ayyıldız](https://www.linkedin.com/in/nidanur-ayy%C4%B1ld%C4%B1z-69a33329b/)
+
 
 ## OWASP Mugla University Past Team Members
 
