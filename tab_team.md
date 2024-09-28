@@ -17,7 +17,7 @@ tags: owaspmsku
 
 ### Core Team Members
 - [Yusuf Yıldız](https://www.linkedin.com/in/yusuf-y%C4%B1ld%C4%B1z-64a1931a2/)
-- - [Ümmü Gülsüm Varlı](https://www.linkedin.com/in/%C3%BCmm%C3%BC-g%C3%BCls%C3%BCm-varl%C4%B1-79a945210)
+- [Ümmü Gülsüm Varlı](https://www.linkedin.com/in/%C3%BCmm%C3%BC-g%C3%BCls%C3%BCm-varl%C4%B1-79a945210)
 
 ### Team Members
 
